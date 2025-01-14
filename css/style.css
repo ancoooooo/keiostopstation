@@ -13,6 +13,7 @@ h1{
 }
 
 .main-container{
+    width: 90%;
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
